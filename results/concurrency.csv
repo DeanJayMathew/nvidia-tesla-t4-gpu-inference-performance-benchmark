@@ -1,0 +1,10 @@
+concurrent_requests,total_elapsed_seconds,average_request_latency_seconds,aggregate_throughput_tokens_per_second
+1,1.60,1.60,160.38
+2,1.54,1.53,333.44
+4,1.54,1.54,663.20
+8,1.79,1.77,1147.22
+16,2.09,2.07,1960.64
+32,2.72,2.68,3007.24
+64,3.81,3.70,4296.89
+96,4.39,4.24,5593.91
+128,5.40,5.05,6063.05
