@@ -1,0 +1,4 @@
+run,ttft_seconds,total_time_seconds,completion_tokens,generation_tokens_per_second
+1,0.024,1.482,256,174.89
+2,0.023,1.475,256,175.57
+3,0.027,1.489,256,174.53
